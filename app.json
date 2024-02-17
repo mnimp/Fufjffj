@@ -1,15 +1,15 @@
 {
-    "name": "🔱 𝐙𝐄 🔱",
-    "description": "بوت تجميع نقاط",
+    "name": "ابن موحان",
+    "description": "بوت تجميع",
     "stack": "container",
     "logo": "https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg",
-    "repository": "https://github.com/modymesourceze/collect",
+    "repository": "https://github.com/kekoDev/telethon-with-echo",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/modymesourceze/collect",
+    "website": "https://github.com/kekoDev/telethon-with-echo",
     "env": {
         "API_ID": {
             "description": "ايبي ايدي",
